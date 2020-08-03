@@ -8,7 +8,6 @@ The product(s) I have been striving to build is a thin version of ERP (Enterpris
 
 At this point, all the content produced here is mainly served as my technical documentation for my personal use, nevertheless all feedbacks are sill welcomed.
 
-##
 
 ![Welcome to iDataMarc Mesh](./images/mesh.jpeg)
 
