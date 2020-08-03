@@ -10,6 +10,6 @@ At this point, all the content produced here is mainly served as my technical do
 
 ##
 
-![Welcome to Opensource.com](./images/cover.jpg)
+![Welcome to iDataMarc Mesh](./images/mesh.jpeg)
 
 PS: This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page. 
